@@ -3,8 +3,8 @@
 This project is an Artificial Intelligence Crime developed using HTML, CSS, Python, Django, MySQL and Machine Learning techniques. The system aims to analyze crime data and predict criminal activities using various machine learning algorithms such as Naive Bayes, Extra Tree Classifier, Support Vector Machine (SVM), Logistic Regression, and Decision Tree Classifier.
 
 # Features
-Crime data analysis and prediction.
-Multiple machine learning algorithms for crime prediction.
+* Bullet list Crime data analysis and prediction.
+* Bullet listMultiple machine learning algorithms for crime prediction.
 Web-based interface for user interaction.
 Secure MySQL database integration for data storage.
 Easy deployment using Django framework.
